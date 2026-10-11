@@ -24,5 +24,13 @@ Table 1. Zero-shot performance of Counterfactual Routing (CoR) compared with bas
 
 ## Citation
 
-Citation information will be added after the final release details are ready.
-
+If you find our project useful, we hope you can star our repo and cite our paper as follows:
+```
+@inproceedings{hu2026awakening,
+  title={Awakening Dormant Experts: Counterfactual Routing to Mitigate MoE Hallucinations},
+  author={Hu, Wentao and Zhai, Yanbo and Hu, Xiaohui and Zhao, Mingkuan and Liu, Xue and Yu, Kaidong and Song, Shuangyong and Li, Xuelong and others},
+  booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={47257--47271},
+  year={2026}
+}
+```
